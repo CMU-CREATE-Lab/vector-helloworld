@@ -1,0 +1,5 @@
+*~
+.DS_Store
+capture
+.ipynb_checkpoints/
+*.bin
